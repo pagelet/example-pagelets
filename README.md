@@ -1,2 +1,1 @@
-# example-pagelets
 Example Pagelets
